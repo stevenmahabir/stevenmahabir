@@ -102,37 +102,6 @@ const steven = {
 
 <br>
 
-<div align="center">
-
-### 📊 **Multi-Metric Overview**
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stevenmahabir&theme=react" />
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stevenmahabir&theme=react" />
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stevenmahabir&theme=react" />
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stevenmahabir&theme=react&utc_offset=8" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <div align="center">
