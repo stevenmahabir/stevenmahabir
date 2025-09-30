@@ -84,22 +84,6 @@ const steven = {
 
 ---
 
-<div align="center">
-
-## 📊 **GitHub Analytics Dashboard**
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🎯 **Detailed Metrics**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevenmahabir&theme=react&hide_border=true" />
-
-</div>
-
 <br>
 
 ---
