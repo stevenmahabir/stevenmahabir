@@ -84,10 +84,6 @@ const steven = {
 
 ---
 
-<br>
-
----
-
 <div align="center">
 
 ## 🚀 **Featured Projects**
