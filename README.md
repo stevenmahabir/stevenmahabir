@@ -13,7 +13,7 @@
 ```javascript
 const steven = {
     location: "Toronto, Canada 🇨🇦",
-    education: "Computer Systems @ Sheridan College",
+    education: "Software Development and Network Engineering @ Sheridan College",
     currentRole: "Full-Stack Developer & ML Enthusiast",
     background: "Digital Marketing Expert (8M+ ad spend managed)",
     
