@@ -15,15 +15,15 @@ const steven = {
     location: "Toronto, Canada 🇨🇦",
     education: "Software Development and Network Engineering @ Sheridan College",
     currentRole: "Full-Stack Developer & ML Enthusiast",
-    background: "Digital Marketing Expert (8M+ ad spend managed)",
+    background: "Digital Marketing Expert (15M+ ad spend managed)",
     
     dailyRoutine: {
         code: ["C Programming", "Python", "Java", "Security"],
         learn: ["Generative AI", "Network Security", "ML Neural Networks"],
-        build: ["Full-Stack Web Apps", "ML Models", "Solutions"]
+        build: ["Full-Stack Web Apps", "ML Models", "Simulations"]
     },
     
-    motto: "Bridging Technology and Business Impact! 🚀"
+    motto: "Bridging Technology and Marketing! "
 };
 ```
 
@@ -31,13 +31,13 @@ const steven = {
 
 <div align="center">
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tech Stack**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 </div>
 
-### 💻 **Languages & Core Technologies**
+### **Languages & Core Technologies**
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -174,7 +174,7 @@ output = "Formatted Tables"
 <div align="center">
 
 ### 🏫 **Sheridan College**
-**Computer Systems Advanced Diploma** | *2024 - 2027*  
+**Computer Systems Advanced Diploma** | *2024 - Present*  
 `Software Development & Network Engineering`
 
 **Previous:** *Advertising & Marketing Communications Management* | *2018 - 2021*
